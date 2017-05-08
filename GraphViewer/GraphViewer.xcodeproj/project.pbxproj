@@ -1,0 +1,503 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D9640069891F6807944D398 /* Pods_GraphViewer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 630E63CF1728A7E246035131 /* Pods_GraphViewer.framework */; };
+		2771301B1DC76DBB006ADD73 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2771301A1DC76DBB006ADD73 /* AppDelegate.swift */; };
+		2771301D1DC76DBB006ADD73 /* ChartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2771301C1DC76DBB006ADD73 /* ChartViewController.swift */; };
+		277130201DC76DBB006ADD73 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2771301E1DC76DBB006ADD73 /* Main.storyboard */; };
+		277130221DC76DBB006ADD73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 277130211DC76DBB006ADD73 /* Assets.xcassets */; };
+		277130251DC76DBB006ADD73 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 277130231DC76DBB006ADD73 /* LaunchScreen.storyboard */; };
+		2771303B1DC76DD7006ADD73 /* Edge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2771302C1DC76DD7006ADD73 /* Edge.swift */; };
+		2771303C1DC76DD7006ADD73 /* UnweightedEdge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2771302D1DC76DD7006ADD73 /* UnweightedEdge.swift */; };
+		2771303D1DC76DD7006ADD73 /* WeightedEdge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2771302E1DC76DD7006ADD73 /* WeightedEdge.swift */; };
+		2771303E1DC76DD7006ADD73 /* Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277130301DC76DD7006ADD73 /* Graph.swift */; };
+		2771303F1DC76DD7006ADD73 /* UnweightedGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277130311DC76DD7006ADD73 /* UnweightedGraph.swift */; };
+		277130401DC76DD7006ADD73 /* WeightedGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277130321DC76DD7006ADD73 /* WeightedGraph.swift */; };
+		277130411DC76DD7006ADD73 /* SwiftPriorityQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277130341DC76DD7006ADD73 /* SwiftPriorityQueue.swift */; };
+		277130421DC76DD7006ADD73 /* Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277130351DC76DD7006ADD73 /* Search.swift */; };
+		277130431DC76DD7006ADD73 /* Sort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277130361DC76DD7006ADD73 /* Sort.swift */; };
+		277130441DC76DD7006ADD73 /* Stack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277130371DC76DD7006ADD73 /* Stack.swift */; };
+		277130451DC76DD7006ADD73 /* Queue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277130381DC76DD7006ADD73 /* Queue.swift */; };
+		2771304D1DC7712A006ADD73 /* GraphDisser.json in Resources */ = {isa = PBXBuildFile; fileRef = 2771304C1DC7712A006ADD73 /* GraphDisser.json */; };
+		277130531DC77548006ADD73 /* NodeJson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277130521DC77548006ADD73 /* NodeJson.swift */; };
+		277130551DC77552006ADD73 /* EdgeJson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277130541DC77552006ADD73 /* EdgeJson.swift */; };
+		27CC79D11DC77A2B001A0CF7 /* DisserNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CC79CF1DC77A2B001A0CF7 /* DisserNode.swift */; };
+		27CC79D21DC77A2B001A0CF7 /* DisserGraphml.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CC79D01DC77A2B001A0CF7 /* DisserGraphml.swift */; };
+		27CC79D51DC77A52001A0CF7 /* DisserGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CC79D31DC77A52001A0CF7 /* DisserGraph.swift */; };
+		27CC79D61DC77A52001A0CF7 /* DisserEdge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CC79D41DC77A52001A0CF7 /* DisserEdge.swift */; };
+		27EE61BE1DC8802800811509 /* Charts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 27EE61BD1DC8802800811509 /* Charts.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		277130171DC76DBB006ADD73 /* GraphViewer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GraphViewer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2771301A1DC76DBB006ADD73 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		2771301C1DC76DBB006ADD73 /* ChartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartViewController.swift; sourceTree = "<group>"; };
+		2771301F1DC76DBB006ADD73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		277130211DC76DBB006ADD73 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		277130241DC76DBB006ADD73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		277130261DC76DBB006ADD73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2771302C1DC76DD7006ADD73 /* Edge.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Edge.swift; path = ../Sources/Edge.swift; sourceTree = "<group>"; };
+		2771302D1DC76DD7006ADD73 /* UnweightedEdge.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UnweightedEdge.swift; path = ../Sources/UnweightedEdge.swift; sourceTree = "<group>"; };
+		2771302E1DC76DD7006ADD73 /* WeightedEdge.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WeightedEdge.swift; path = ../Sources/WeightedEdge.swift; sourceTree = "<group>"; };
+		277130301DC76DD7006ADD73 /* Graph.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Graph.swift; path = ../Sources/Graph.swift; sourceTree = "<group>"; };
+		277130311DC76DD7006ADD73 /* UnweightedGraph.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UnweightedGraph.swift; path = ../Sources/UnweightedGraph.swift; sourceTree = "<group>"; };
+		277130321DC76DD7006ADD73 /* WeightedGraph.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WeightedGraph.swift; path = ../Sources/WeightedGraph.swift; sourceTree = "<group>"; };
+		277130341DC76DD7006ADD73 /* SwiftPriorityQueue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwiftPriorityQueue.swift; path = ../Sources/SwiftPriorityQueue.swift; sourceTree = "<group>"; };
+		277130351DC76DD7006ADD73 /* Search.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Search.swift; path = ../Sources/Search.swift; sourceTree = "<group>"; };
+		277130361DC76DD7006ADD73 /* Sort.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Sort.swift; path = ../Sources/Sort.swift; sourceTree = "<group>"; };
+		277130371DC76DD7006ADD73 /* Stack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Stack.swift; path = ../Sources/Stack.swift; sourceTree = "<group>"; };
+		277130381DC76DD7006ADD73 /* Queue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Queue.swift; path = ../Sources/Queue.swift; sourceTree = "<group>"; };
+		2771304C1DC7712A006ADD73 /* GraphDisser.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = GraphDisser.json; sourceTree = "<group>"; };
+		277130521DC77548006ADD73 /* NodeJson.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NodeJson.swift; sourceTree = "<group>"; };
+		277130541DC77552006ADD73 /* EdgeJson.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EdgeJson.swift; sourceTree = "<group>"; };
+		27CC79CF1DC77A2B001A0CF7 /* DisserNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DisserNode.swift; sourceTree = "<group>"; };
+		27CC79D01DC77A2B001A0CF7 /* DisserGraphml.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DisserGraphml.swift; sourceTree = "<group>"; };
+		27CC79D31DC77A52001A0CF7 /* DisserGraph.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DisserGraph.swift; sourceTree = "<group>"; };
+		27CC79D41DC77A52001A0CF7 /* DisserEdge.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DisserEdge.swift; sourceTree = "<group>"; };
+		27EE61BD1DC8802800811509 /* Charts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Charts.framework; path = "../../Library/Developer/Xcode/DerivedData/GraphViewer-bgkaebclgthouyegcskrurtkyhwt/Build/Products/Debug-iphonesimulator/Charts/Charts.framework"; sourceTree = "<group>"; };
+		5BC0207F935CBA857694EF7A /* Pods-GraphViewer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GraphViewer.release.xcconfig"; path = "Pods/Target Support Files/Pods-GraphViewer/Pods-GraphViewer.release.xcconfig"; sourceTree = "<group>"; };
+		5E5C9DA44FB0C77CEA2809A3 /* Pods-GraphViewer.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GraphViewer.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GraphViewer/Pods-GraphViewer.debug.xcconfig"; sourceTree = "<group>"; };
+		630E63CF1728A7E246035131 /* Pods_GraphViewer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GraphViewer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		277130141DC76DBB006ADD73 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				27EE61BE1DC8802800811509 /* Charts.framework in Frameworks */,
+				1D9640069891F6807944D398 /* Pods_GraphViewer.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2771300E1DC76DBB006ADD73 = {
+			isa = PBXGroup;
+			children = (
+				277130191DC76DBB006ADD73 /* GraphViewer */,
+				277130181DC76DBB006ADD73 /* Products */,
+				78FDBA48C2A986557E6A28EC /* Pods */,
+				E37CF5AE427443F953788808 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		277130181DC76DBB006ADD73 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				277130171DC76DBB006ADD73 /* GraphViewer.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		277130191DC76DBB006ADD73 /* GraphViewer */ = {
+			isa = PBXGroup;
+			children = (
+				27CC79CF1DC77A2B001A0CF7 /* DisserNode.swift */,
+				27CC79D31DC77A52001A0CF7 /* DisserGraph.swift */,
+				27CC79D41DC77A52001A0CF7 /* DisserEdge.swift */,
+				27CC79D01DC77A2B001A0CF7 /* DisserGraphml.swift */,
+				277130541DC77552006ADD73 /* EdgeJson.swift */,
+				277130521DC77548006ADD73 /* NodeJson.swift */,
+				2771303A1DC76DD7006ADD73 /* Sources */,
+				2771301A1DC76DBB006ADD73 /* AppDelegate.swift */,
+				2771301C1DC76DBB006ADD73 /* ChartViewController.swift */,
+				2771301E1DC76DBB006ADD73 /* Main.storyboard */,
+				277130211DC76DBB006ADD73 /* Assets.xcassets */,
+				277130231DC76DBB006ADD73 /* LaunchScreen.storyboard */,
+				277130261DC76DBB006ADD73 /* Info.plist */,
+				2771304C1DC7712A006ADD73 /* GraphDisser.json */,
+			);
+			path = GraphViewer;
+			sourceTree = "<group>";
+		};
+		2771302F1DC76DD7006ADD73 /* Edges */ = {
+			isa = PBXGroup;
+			children = (
+				2771302C1DC76DD7006ADD73 /* Edge.swift */,
+				2771302D1DC76DD7006ADD73 /* UnweightedEdge.swift */,
+				2771302E1DC76DD7006ADD73 /* WeightedEdge.swift */,
+			);
+			name = Edges;
+			sourceTree = "<group>";
+		};
+		277130331DC76DD7006ADD73 /* Graphs */ = {
+			isa = PBXGroup;
+			children = (
+				277130301DC76DD7006ADD73 /* Graph.swift */,
+				277130311DC76DD7006ADD73 /* UnweightedGraph.swift */,
+				277130321DC76DD7006ADD73 /* WeightedGraph.swift */,
+			);
+			name = Graphs;
+			sourceTree = "<group>";
+		};
+		277130391DC76DD7006ADD73 /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				277130341DC76DD7006ADD73 /* SwiftPriorityQueue.swift */,
+				277130351DC76DD7006ADD73 /* Search.swift */,
+				277130361DC76DD7006ADD73 /* Sort.swift */,
+				277130371DC76DD7006ADD73 /* Stack.swift */,
+				277130381DC76DD7006ADD73 /* Queue.swift */,
+			);
+			name = Search;
+			sourceTree = "<group>";
+		};
+		2771303A1DC76DD7006ADD73 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				2771302F1DC76DD7006ADD73 /* Edges */,
+				277130331DC76DD7006ADD73 /* Graphs */,
+				277130391DC76DD7006ADD73 /* Search */,
+			);
+			name = Sources;
+			path = "../../SwiftGraph-master/SwiftGraph";
+			sourceTree = "<group>";
+		};
+		78FDBA48C2A986557E6A28EC /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				5E5C9DA44FB0C77CEA2809A3 /* Pods-GraphViewer.debug.xcconfig */,
+				5BC0207F935CBA857694EF7A /* Pods-GraphViewer.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		E37CF5AE427443F953788808 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				27EE61BD1DC8802800811509 /* Charts.framework */,
+				630E63CF1728A7E246035131 /* Pods_GraphViewer.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		277130161DC76DBB006ADD73 /* GraphViewer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 277130291DC76DBB006ADD73 /* Build configuration list for PBXNativeTarget "GraphViewer" */;
+			buildPhases = (
+				8D5E16891058144CD2E2D649 /* [CP] Check Pods Manifest.lock */,
+				277130131DC76DBB006ADD73 /* Sources */,
+				277130141DC76DBB006ADD73 /* Frameworks */,
+				277130151DC76DBB006ADD73 /* Resources */,
+				C6F3F876DF3CB5829934DEB4 /* [CP] Embed Pods Frameworks */,
+				D1848AD05EE93127B4C7B188 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GraphViewer;
+			productName = GraphViewer;
+			productReference = 277130171DC76DBB006ADD73 /* GraphViewer.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2771300F1DC76DBB006ADD73 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0800;
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = "Yerbol Kopzhassar";
+				TargetAttributes = {
+					277130161DC76DBB006ADD73 = {
+						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = A92UW2429U;
+						LastSwiftMigration = 0800;
+						ProvisioningStyle = Manual;
+					};
+				};
+			};
+			buildConfigurationList = 277130121DC76DBB006ADD73 /* Build configuration list for PBXProject "GraphViewer" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2771300E1DC76DBB006ADD73;
+			productRefGroup = 277130181DC76DBB006ADD73 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				277130161DC76DBB006ADD73 /* GraphViewer */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		277130151DC76DBB006ADD73 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				277130251DC76DBB006ADD73 /* LaunchScreen.storyboard in Resources */,
+				2771304D1DC7712A006ADD73 /* GraphDisser.json in Resources */,
+				277130221DC76DBB006ADD73 /* Assets.xcassets in Resources */,
+				277130201DC76DBB006ADD73 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		8D5E16891058144CD2E2D649 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		C6F3F876DF3CB5829934DEB4 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GraphViewer/Pods-GraphViewer-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D1848AD05EE93127B4C7B188 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GraphViewer/Pods-GraphViewer-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		277130131DC76DBB006ADD73 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				27CC79D21DC77A2B001A0CF7 /* DisserGraphml.swift in Sources */,
+				277130411DC76DD7006ADD73 /* SwiftPriorityQueue.swift in Sources */,
+				2771303F1DC76DD7006ADD73 /* UnweightedGraph.swift in Sources */,
+				277130401DC76DD7006ADD73 /* WeightedGraph.swift in Sources */,
+				27CC79D51DC77A52001A0CF7 /* DisserGraph.swift in Sources */,
+				2771303E1DC76DD7006ADD73 /* Graph.swift in Sources */,
+				277130451DC76DD7006ADD73 /* Queue.swift in Sources */,
+				277130441DC76DD7006ADD73 /* Stack.swift in Sources */,
+				2771303C1DC76DD7006ADD73 /* UnweightedEdge.swift in Sources */,
+				2771301D1DC76DBB006ADD73 /* ChartViewController.swift in Sources */,
+				277130551DC77552006ADD73 /* EdgeJson.swift in Sources */,
+				2771301B1DC76DBB006ADD73 /* AppDelegate.swift in Sources */,
+				27CC79D61DC77A52001A0CF7 /* DisserEdge.swift in Sources */,
+				277130431DC76DD7006ADD73 /* Sort.swift in Sources */,
+				27CC79D11DC77A2B001A0CF7 /* DisserNode.swift in Sources */,
+				277130421DC76DD7006ADD73 /* Search.swift in Sources */,
+				2771303B1DC76DD7006ADD73 /* Edge.swift in Sources */,
+				2771303D1DC76DD7006ADD73 /* WeightedEdge.swift in Sources */,
+				277130531DC77548006ADD73 /* NodeJson.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		2771301E1DC76DBB006ADD73 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2771301F1DC76DBB006ADD73 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		277130231DC76DBB006ADD73 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				277130241DC76DBB006ADD73 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		277130271DC76DBB006ADD73 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		277130281DC76DBB006ADD73 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2771302A1DC76DBB006ADD73 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5E5C9DA44FB0C77CEA2809A3 /* Pods-GraphViewer.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				DEVELOPMENT_TEAM = A92UW2429U;
+				INFOPLIST_FILE = GraphViewer/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Flaminis.GraphViewer;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "6f2b1a57-d2c3-4265-a7a6-071b25d5fadf";
+				PROVISIONING_PROFILE_SPECIFIER = "XC: *";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		2771302B1DC76DBB006ADD73 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5BC0207F935CBA857694EF7A /* Pods-GraphViewer.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				DEVELOPMENT_TEAM = A92UW2429U;
+				INFOPLIST_FILE = GraphViewer/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Flaminis.GraphViewer;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "6f2b1a57-d2c3-4265-a7a6-071b25d5fadf";
+				PROVISIONING_PROFILE_SPECIFIER = "XC: *";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		277130121DC76DBB006ADD73 /* Build configuration list for PBXProject "GraphViewer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				277130271DC76DBB006ADD73 /* Debug */,
+				277130281DC76DBB006ADD73 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		277130291DC76DBB006ADD73 /* Build configuration list for PBXNativeTarget "GraphViewer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2771302A1DC76DBB006ADD73 /* Debug */,
+				2771302B1DC76DBB006ADD73 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2771300F1DC76DBB006ADD73 /* Project object */;
+}
