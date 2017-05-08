@@ -1,0 +1,2538 @@
+graph
+[
+ node
+[
+ id 0
+label "Yerbol Kopzhassar"
+]
+node
+[
+ id 1
+label "Арман Сулейменов"
+]
+node
+[
+ id 2
+label "Алексей Колесников"
+]
+node
+[
+ id 3
+label "Илья Дорман"
+]
+node
+[
+ id 4
+label "Ернар Уразбаев"
+]
+node
+[
+ id 5
+label "Ануар Назарбаев"
+]
+node
+[
+ id 6
+label "Miras Aussat"
+]
+node
+[
+ id 7
+label "Marina Ryzhkova"
+]
+node
+[
+ id 8
+label "Ануар Маратхан"
+]
+node
+[
+ id 9
+label "Тоша Рабатов"
+]
+node
+[
+ id 10
+label "Дмитрий Белов"
+]
+node
+[
+ id 11
+label "Almas Kairatuly"
+]
+node
+[
+ id 12
+label "Денис Колодяжный"
+]
+node
+[
+ id 13
+label "Арсен Бурибаев"
+]
+node
+[
+ id 14
+label "Марк Ким"
+]
+node
+[
+ id 15
+label "Кирилл Кулик"
+]
+node
+[
+ id 16
+label "Томирис Казбеккызы"
+]
+node
+[
+ id 17
+label "Асёка Исмагулова"
+]
+node
+[
+ id 18
+label "Нурсултан Орынбасар"
+]
+node
+[
+ id 19
+label "Sabira Orazbayeva"
+]
+node
+[
+ id 20
+label "Илья Медведев"
+]
+node
+[
+ id 21
+label "Абылайхан Бимаганов"
+]
+node
+[
+ id 22
+label "Алла Квакова"
+]
+node
+[
+ id 23
+label "Дарья Соколова"
+]
+node
+[
+ id 24
+label "Самал Омарова"
+]
+node
+[
+ id 25
+label "Евгений Аксёнов"
+]
+node
+[
+ id 26
+label "Didara Pernebayeva"
+]
+node
+[
+ id 27
+label "Александр Карачаев"
+]
+node
+[
+ id 28
+label "Zarina Nauryzgaliyeva"
+]
+node
+[
+ id 29
+label "Никита Фсалов"
+]
+node
+[
+ id 30
+label "Азалия Искакова"
+]
+node
+[
+ id 31
+label "Боря Гаврилов"
+]
+node
+[
+ id 32
+label "Alina Nurpeissova"
+]
+node
+[
+ id 33
+label "Tamirlan Uristembayev"
+]
+node
+[
+ id 34
+label "Ахан Кусаинов"
+]
+node
+[
+ id 35
+label "Валентина Егорова"
+]
+node
+[
+ id 36
+label "Сакен Сыдыков"
+]
+node
+[
+ id 37
+label "Руслан Кожахметов"
+]
+node
+[
+ id 38
+label "Тимур Токпанов"
+]
+node
+[
+ id 39
+label "Asem Isaeva"
+]
+node
+[
+ id 40
+label "Akan Onerbek"
+]
+node
+[
+ id 41
+label "Валентин Пугай"
+]
+node
+[
+ id 42
+label "Амир Алибеков"
+]
+node
+[
+ id 43
+label "Найля Куанышбаева"
+]
+node
+[
+ id 44
+label "Дмитрий Димин"
+]
+node
+[
+ id 45
+label "Turar Rustembayev"
+]
+node
+[
+ id 46
+label "Assiya Utzhanova"
+]
+node
+[
+ id 47
+label "Just Ereke"
+]
+node
+[
+ id 48
+label "Александр Кузнецов"
+]
+node
+[
+ id 49
+label "Kazsociety Uk"
+]
+node
+[
+ id 50
+label "Темирлан Сатыбеков"
+]
+node
+[
+ id 51
+label "Диас Иман"
+]
+node
+[
+ id 52
+label "Эвелина Медведева"
+]
+node
+[
+ id 53
+label "Nigora Mavlonazarova"
+]
+node
+[
+ id 54
+label "Ltw God"
+]
+node
+[
+ id 55
+label "Айдана Сапуан"
+]
+node
+[
+ id 56
+label "Шайхислам Дарибай"
+]
+node
+[
+ id 57
+label "Айдан Жулдыгулов"
+]
+node
+[
+ id 58
+label "Ержан Мадемиханов"
+]
+node
+[
+ id 59
+label "Жан Гурман"
+]
+node
+[
+ id 60
+label "Nurzhan Yergozhin"
+]
+node
+[
+ id 61
+label "Assylbek Danyshbek"
+]
+node
+[
+ id 62
+label "Алексей Мурышкин"
+]
+node
+[
+ id 63
+label "Саламат Бейсе"
+]
+node
+[
+ id 64
+label "Daulet Kenzhetayev"
+]
+node
+[
+ id 65
+label "Айгера Дунамис"
+]
+node
+[
+ id 66
+label "Ярик Найденов"
+]
+node
+[
+ id 67
+label "Алексей Шопшо"
+]
+node
+[
+ id 68
+label "Tauekel Kunzhol"
+]
+node
+[
+ id 69
+label "Berik Izbassar"
+]
+node
+[
+ id 70
+label "Brit Education"
+]
+node
+[
+ id 71
+label "Temirlan Toguzbayev"
+]
+node
+[
+ id 72
+label "Санжар Бахтияров"
+]
+node
+[
+ id 73
+label "Никита Патрикеев"
+]
+node
+[
+ id 74
+label "Роман Кодер"
+]
+node
+[
+ id 75
+label "Nazerke Kalidolda"
+]
+node
+[
+ id 76
+label "Bekzhan Dzhandirov"
+]
+node
+[
+ id 77
+label "Sanzhar Zholdiyarov"
+]
+node
+[
+ id 78
+label "Vadim Miropolskiy"
+]
+node
+[
+ id 79
+label "Владислав Иващенко"
+]
+node
+[
+ id 80
+label "Alibek Zhumadilov"
+]
+node
+[
+ id 81
+label "Ilyas Kaukenov"
+]
+node
+[
+ id 82
+label "Azel Murzabekova"
+]
+node
+[
+ id 83
+label "Amir Niman"
+]
+node
+[
+ id 84
+label "Islam Tarpeda"
+]
+node
+[
+ id 85
+label "Магамет Цицкиев"
+]
+node
+[
+ id 86
+label "Айжана Сагадиева"
+]
+node
+[
+ id 87
+label "Интро Оутро"
+]
+node
+[
+ id 88
+label "Islam Zhumagazin"
+]
+node
+[
+ id 89
+label "Аслан Мухатов"
+]
+node
+[
+ id 90
+label "Bekzhan Jandirov"
+]
+node
+[
+ id 91
+label "Gambit Astana"
+]
+edge
+[
+source 0
+target 1
+label "weight 1"]
+edge
+[
+source 0
+target 2
+label "weight 1"]
+edge
+[
+source 0
+target 3
+label "weight 1"]
+edge
+[
+source 0
+target 4
+label "weight 1"]
+edge
+[
+source 0
+target 5
+label "weight 1"]
+edge
+[
+source 0
+target 6
+label "weight 1"]
+edge
+[
+source 0
+target 7
+label "weight 1"]
+edge
+[
+source 0
+target 8
+label "weight 1"]
+edge
+[
+source 0
+target 9
+label "weight 1"]
+edge
+[
+source 0
+target 10
+label "weight 1"]
+edge
+[
+source 0
+target 11
+label "weight 1"]
+edge
+[
+source 0
+target 12
+label "weight 1"]
+edge
+[
+source 0
+target 13
+label "weight 1"]
+edge
+[
+source 0
+target 14
+label "weight 1"]
+edge
+[
+source 0
+target 15
+label "weight 1"]
+edge
+[
+source 0
+target 16
+label "weight 1"]
+edge
+[
+source 0
+target 17
+label "weight 1"]
+edge
+[
+source 0
+target 18
+label "weight 1"]
+edge
+[
+source 0
+target 19
+label "weight 1"]
+edge
+[
+source 0
+target 20
+label "weight 1"]
+edge
+[
+source 0
+target 21
+label "weight 1"]
+edge
+[
+source 0
+target 22
+label "weight 1"]
+edge
+[
+source 0
+target 23
+label "weight 1"]
+edge
+[
+source 0
+target 24
+label "weight 1"]
+edge
+[
+source 0
+target 25
+label "weight 1"]
+edge
+[
+source 0
+target 26
+label "weight 1"]
+edge
+[
+source 0
+target 27
+label "weight 1"]
+edge
+[
+source 0
+target 28
+label "weight 1"]
+edge
+[
+source 0
+target 29
+label "weight 1"]
+edge
+[
+source 0
+target 30
+label "weight 1"]
+edge
+[
+source 0
+target 31
+label "weight 1"]
+edge
+[
+source 0
+target 32
+label "weight 1"]
+edge
+[
+source 0
+target 33
+label "weight 1"]
+edge
+[
+source 0
+target 34
+label "weight 1"]
+edge
+[
+source 0
+target 35
+label "weight 1"]
+edge
+[
+source 0
+target 36
+label "weight 1"]
+edge
+[
+source 0
+target 37
+label "weight 1"]
+edge
+[
+source 0
+target 38
+label "weight 1"]
+edge
+[
+source 0
+target 39
+label "weight 1"]
+edge
+[
+source 0
+target 40
+label "weight 1"]
+edge
+[
+source 0
+target 41
+label "weight 1"]
+edge
+[
+source 0
+target 42
+label "weight 1"]
+edge
+[
+source 0
+target 43
+label "weight 1"]
+edge
+[
+source 0
+target 44
+label "weight 1"]
+edge
+[
+source 0
+target 45
+label "weight 1"]
+edge
+[
+source 0
+target 46
+label "weight 1"]
+edge
+[
+source 0
+target 47
+label "weight 1"]
+edge
+[
+source 0
+target 48
+label "weight 1"]
+edge
+[
+source 0
+target 49
+label "weight 1"]
+edge
+[
+source 0
+target 50
+label "weight 1"]
+edge
+[
+source 0
+target 51
+label "weight 1"]
+edge
+[
+source 0
+target 52
+label "weight 1"]
+edge
+[
+source 0
+target 53
+label "weight 1"]
+edge
+[
+source 0
+target 54
+label "weight 1"]
+edge
+[
+source 0
+target 55
+label "weight 1"]
+edge
+[
+source 0
+target 56
+label "weight 1"]
+edge
+[
+source 0
+target 57
+label "weight 1"]
+edge
+[
+source 0
+target 58
+label "weight 1"]
+edge
+[
+source 0
+target 59
+label "weight 1"]
+edge
+[
+source 0
+target 60
+label "weight 1"]
+edge
+[
+source 0
+target 61
+label "weight 1"]
+edge
+[
+source 0
+target 62
+label "weight 1"]
+edge
+[
+source 0
+target 63
+label "weight 1"]
+edge
+[
+source 0
+target 64
+label "weight 1"]
+edge
+[
+source 0
+target 65
+label "weight 1"]
+edge
+[
+source 0
+target 66
+label "weight 1"]
+edge
+[
+source 0
+target 67
+label "weight 1"]
+edge
+[
+source 0
+target 68
+label "weight 1"]
+edge
+[
+source 0
+target 69
+label "weight 1"]
+edge
+[
+source 0
+target 70
+label "weight 1"]
+edge
+[
+source 0
+target 71
+label "weight 1"]
+edge
+[
+source 0
+target 72
+label "weight 1"]
+edge
+[
+source 0
+target 73
+label "weight 1"]
+edge
+[
+source 0
+target 74
+label "weight 1"]
+edge
+[
+source 0
+target 75
+label "weight 1"]
+edge
+[
+source 0
+target 76
+label "weight 1"]
+edge
+[
+source 0
+target 77
+label "weight 1"]
+edge
+[
+source 0
+target 78
+label "weight 1"]
+edge
+[
+source 0
+target 79
+label "weight 1"]
+edge
+[
+source 0
+target 80
+label "weight 1"]
+edge
+[
+source 0
+target 81
+label "weight 1"]
+edge
+[
+source 0
+target 82
+label "weight 1"]
+edge
+[
+source 0
+target 83
+label "weight 1"]
+edge
+[
+source 0
+target 84
+label "weight 1"]
+edge
+[
+source 0
+target 85
+label "weight 1"]
+edge
+[
+source 0
+target 86
+label "weight 1"]
+edge
+[
+source 0
+target 87
+label "weight 1"]
+edge
+[
+source 0
+target 88
+label "weight 1"]
+edge
+[
+source 0
+target 89
+label "weight 1"]
+edge
+[
+source 0
+target 90
+label "weight 1"]
+edge
+[
+source 0
+target 91
+label "weight 1"]
+edge
+[
+source 1
+target 6
+label "weight 1"]
+edge
+[
+source 1
+target 8
+label "weight 1"]
+edge
+[
+source 1
+target 11
+label "weight 1"]
+edge
+[
+source 1
+target 14
+label "weight 1"]
+edge
+[
+source 1
+target 24
+label "weight 1"]
+edge
+[
+source 1
+target 36
+label "weight 1"]
+edge
+[
+source 1
+target 40
+label "weight 1"]
+edge
+[
+source 1
+target 43
+label "weight 1"]
+edge
+[
+source 1
+target 46
+label "weight 1"]
+edge
+[
+source 1
+target 58
+label "weight 1"]
+edge
+[
+source 1
+target 62
+label "weight 1"]
+edge
+[
+source 1
+target 64
+label "weight 1"]
+edge
+[
+source 1
+target 68
+label "weight 1"]
+edge
+[
+source 1
+target 71
+label "weight 1"]
+edge
+[
+source 1
+target 72
+label "weight 1"]
+edge
+[
+source 1
+target 75
+label "weight 1"]
+edge
+[
+source 1
+target 78
+label "weight 1"]
+edge
+[
+source 2
+target 79
+label "weight 1"]
+edge
+[
+source 3
+target 4
+label "weight 1"]
+edge
+[
+source 3
+target 9
+label "weight 1"]
+edge
+[
+source 3
+target 38
+label "weight 1"]
+edge
+[
+source 3
+target 41
+label "weight 1"]
+edge
+[
+source 3
+target 54
+label "weight 1"]
+edge
+[
+source 3
+target 65
+label "weight 1"]
+edge
+[
+source 3
+target 76
+label "weight 1"]
+edge
+[
+source 3
+target 79
+label "weight 1"]
+edge
+[
+source 3
+target 81
+label "weight 1"]
+edge
+[
+source 3
+target 90
+label "weight 1"]
+edge
+[
+source 3
+target 91
+label "weight 1"]
+edge
+[
+source 4
+target 38
+label "weight 1"]
+edge
+[
+source 4
+target 41
+label "weight 1"]
+edge
+[
+source 4
+target 54
+label "weight 1"]
+edge
+[
+source 4
+target 57
+label "weight 1"]
+edge
+[
+source 4
+target 65
+label "weight 1"]
+edge
+[
+source 4
+target 76
+label "weight 1"]
+edge
+[
+source 4
+target 79
+label "weight 1"]
+edge
+[
+source 4
+target 81
+label "weight 1"]
+edge
+[
+source 4
+target 85
+label "weight 1"]
+edge
+[
+source 4
+target 90
+label "weight 1"]
+edge
+[
+source 4
+target 91
+label "weight 1"]
+edge
+[
+source 5
+target 54
+label "weight 1"]
+edge
+[
+source 5
+target 59
+label "weight 1"]
+edge
+[
+source 5
+target 76
+label "weight 1"]
+edge
+[
+source 5
+target 86
+label "weight 1"]
+edge
+[
+source 5
+target 90
+label "weight 1"]
+edge
+[
+source 6
+target 8
+label "weight 1"]
+edge
+[
+source 6
+target 14
+label "weight 1"]
+edge
+[
+source 6
+target 24
+label "weight 1"]
+edge
+[
+source 6
+target 26
+label "weight 1"]
+edge
+[
+source 6
+target 34
+label "weight 1"]
+edge
+[
+source 6
+target 36
+label "weight 1"]
+edge
+[
+source 6
+target 40
+label "weight 1"]
+edge
+[
+source 6
+target 64
+label "weight 1"]
+edge
+[
+source 6
+target 68
+label "weight 1"]
+edge
+[
+source 6
+target 78
+label "weight 1"]
+edge
+[
+source 6
+target 82
+label "weight 1"]
+edge
+[
+source 7
+target 12
+label "weight 1"]
+edge
+[
+source 7
+target 20
+label "weight 1"]
+edge
+[
+source 7
+target 22
+label "weight 1"]
+edge
+[
+source 7
+target 30
+label "weight 1"]
+edge
+[
+source 7
+target 35
+label "weight 1"]
+edge
+[
+source 7
+target 52
+label "weight 1"]
+edge
+[
+source 8
+target 14
+label "weight 1"]
+edge
+[
+source 8
+target 24
+label "weight 1"]
+edge
+[
+source 8
+target 26
+label "weight 1"]
+edge
+[
+source 8
+target 34
+label "weight 1"]
+edge
+[
+source 8
+target 55
+label "weight 1"]
+edge
+[
+source 8
+target 58
+label "weight 1"]
+edge
+[
+source 8
+target 60
+label "weight 1"]
+edge
+[
+source 8
+target 61
+label "weight 1"]
+edge
+[
+source 8
+target 62
+label "weight 1"]
+edge
+[
+source 8
+target 64
+label "weight 1"]
+edge
+[
+source 8
+target 68
+label "weight 1"]
+edge
+[
+source 8
+target 72
+label "weight 1"]
+edge
+[
+source 8
+target 75
+label "weight 1"]
+edge
+[
+source 8
+target 78
+label "weight 1"]
+edge
+[
+source 8
+target 82
+label "weight 1"]
+edge
+[
+source 9
+target 37
+label "weight 1"]
+edge
+[
+source 9
+target 85
+label "weight 1"]
+edge
+[
+source 9
+target 89
+label "weight 1"]
+edge
+[
+source 10
+target 25
+label "weight 1"]
+edge
+[
+source 10
+target 44
+label "weight 1"]
+edge
+[
+source 10
+target 66
+label "weight 1"]
+edge
+[
+source 11
+target 14
+label "weight 1"]
+edge
+[
+source 11
+target 43
+label "weight 1"]
+edge
+[
+source 12
+target 15
+label "weight 1"]
+edge
+[
+source 12
+target 18
+label "weight 1"]
+edge
+[
+source 12
+target 20
+label "weight 1"]
+edge
+[
+source 12
+target 22
+label "weight 1"]
+edge
+[
+source 12
+target 40
+label "weight 1"]
+edge
+[
+source 12
+target 52
+label "weight 1"]
+edge
+[
+source 12
+target 88
+label "weight 1"]
+edge
+[
+source 13
+target 15
+label "weight 1"]
+edge
+[
+source 13
+target 18
+label "weight 1"]
+edge
+[
+source 13
+target 20
+label "weight 1"]
+edge
+[
+source 13
+target 33
+label "weight 1"]
+edge
+[
+source 13
+target 40
+label "weight 1"]
+edge
+[
+source 13
+target 47
+label "weight 1"]
+edge
+[
+source 13
+target 49
+label "weight 1"]
+edge
+[
+source 13
+target 51
+label "weight 1"]
+edge
+[
+source 13
+target 80
+label "weight 1"]
+edge
+[
+source 14
+target 24
+label "weight 1"]
+edge
+[
+source 14
+target 26
+label "weight 1"]
+edge
+[
+source 14
+target 36
+label "weight 1"]
+edge
+[
+source 14
+target 40
+label "weight 1"]
+edge
+[
+source 14
+target 60
+label "weight 1"]
+edge
+[
+source 14
+target 61
+label "weight 1"]
+edge
+[
+source 14
+target 62
+label "weight 1"]
+edge
+[
+source 14
+target 64
+label "weight 1"]
+edge
+[
+source 14
+target 68
+label "weight 1"]
+edge
+[
+source 14
+target 72
+label "weight 1"]
+edge
+[
+source 14
+target 75
+label "weight 1"]
+edge
+[
+source 14
+target 78
+label "weight 1"]
+edge
+[
+source 15
+target 20
+label "weight 1"]
+edge
+[
+source 16
+target 18
+label "weight 1"]
+edge
+[
+source 17
+target 39
+label "weight 1"]
+edge
+[
+source 17
+target 42
+label "weight 1"]
+edge
+[
+source 17
+target 43
+label "weight 1"]
+edge
+[
+source 17
+target 50
+label "weight 1"]
+edge
+[
+source 17
+target 56
+label "weight 1"]
+edge
+[
+source 17
+target 63
+label "weight 1"]
+edge
+[
+source 17
+target 69
+label "weight 1"]
+edge
+[
+source 18
+target 20
+label "weight 1"]
+edge
+[
+source 18
+target 21
+label "weight 1"]
+edge
+[
+source 18
+target 33
+label "weight 1"]
+edge
+[
+source 18
+target 35
+label "weight 1"]
+edge
+[
+source 18
+target 40
+label "weight 1"]
+edge
+[
+source 18
+target 47
+label "weight 1"]
+edge
+[
+source 18
+target 51
+label "weight 1"]
+edge
+[
+source 18
+target 80
+label "weight 1"]
+edge
+[
+source 18
+target 88
+label "weight 1"]
+edge
+[
+source 19
+target 20
+label "weight 1"]
+edge
+[
+source 19
+target 21
+label "weight 1"]
+edge
+[
+source 19
+target 30
+label "weight 1"]
+edge
+[
+source 19
+target 32
+label "weight 1"]
+edge
+[
+source 19
+target 33
+label "weight 1"]
+edge
+[
+source 19
+target 40
+label "weight 1"]
+edge
+[
+source 19
+target 49
+label "weight 1"]
+edge
+[
+source 19
+target 70
+label "weight 1"]
+edge
+[
+source 19
+target 88
+label "weight 1"]
+edge
+[
+source 20
+target 21
+label "weight 1"]
+edge
+[
+source 20
+target 22
+label "weight 1"]
+edge
+[
+source 20
+target 29
+label "weight 1"]
+edge
+[
+source 20
+target 30
+label "weight 1"]
+edge
+[
+source 20
+target 33
+label "weight 1"]
+edge
+[
+source 20
+target 35
+label "weight 1"]
+edge
+[
+source 20
+target 40
+label "weight 1"]
+edge
+[
+source 20
+target 47
+label "weight 1"]
+edge
+[
+source 20
+target 51
+label "weight 1"]
+edge
+[
+source 20
+target 52
+label "weight 1"]
+edge
+[
+source 20
+target 77
+label "weight 1"]
+edge
+[
+source 20
+target 80
+label "weight 1"]
+edge
+[
+source 20
+target 88
+label "weight 1"]
+edge
+[
+source 21
+target 30
+label "weight 1"]
+edge
+[
+source 21
+target 32
+label "weight 1"]
+edge
+[
+source 21
+target 33
+label "weight 1"]
+edge
+[
+source 21
+target 40
+label "weight 1"]
+edge
+[
+source 21
+target 47
+label "weight 1"]
+edge
+[
+source 21
+target 51
+label "weight 1"]
+edge
+[
+source 21
+target 80
+label "weight 1"]
+edge
+[
+source 21
+target 88
+label "weight 1"]
+edge
+[
+source 22
+target 35
+label "weight 1"]
+edge
+[
+source 22
+target 80
+label "weight 1"]
+edge
+[
+source 24
+target 28
+label "weight 1"]
+edge
+[
+source 24
+target 34
+label "weight 1"]
+edge
+[
+source 24
+target 36
+label "weight 1"]
+edge
+[
+source 24
+target 45
+label "weight 1"]
+edge
+[
+source 24
+target 46
+label "weight 1"]
+edge
+[
+source 24
+target 51
+label "weight 1"]
+edge
+[
+source 24
+target 55
+label "weight 1"]
+edge
+[
+source 24
+target 58
+label "weight 1"]
+edge
+[
+source 24
+target 61
+label "weight 1"]
+edge
+[
+source 24
+target 62
+label "weight 1"]
+edge
+[
+source 24
+target 64
+label "weight 1"]
+edge
+[
+source 24
+target 68
+label "weight 1"]
+edge
+[
+source 24
+target 75
+label "weight 1"]
+edge
+[
+source 24
+target 82
+label "weight 1"]
+edge
+[
+source 24
+target 89
+label "weight 1"]
+edge
+[
+source 25
+target 27
+label "weight 1"]
+edge
+[
+source 25
+target 44
+label "weight 1"]
+edge
+[
+source 25
+target 66
+label "weight 1"]
+edge
+[
+source 26
+target 34
+label "weight 1"]
+edge
+[
+source 26
+target 55
+label "weight 1"]
+edge
+[
+source 26
+target 58
+label "weight 1"]
+edge
+[
+source 26
+target 62
+label "weight 1"]
+edge
+[
+source 26
+target 64
+label "weight 1"]
+edge
+[
+source 26
+target 75
+label "weight 1"]
+edge
+[
+source 27
+target 54
+label "weight 1"]
+edge
+[
+source 27
+target 57
+label "weight 1"]
+edge
+[
+source 27
+target 59
+label "weight 1"]
+edge
+[
+source 27
+target 76
+label "weight 1"]
+edge
+[
+source 27
+target 79
+label "weight 1"]
+edge
+[
+source 27
+target 81
+label "weight 1"]
+edge
+[
+source 28
+target 55
+label "weight 1"]
+edge
+[
+source 29
+target 35
+label "weight 1"]
+edge
+[
+source 29
+target 40
+label "weight 1"]
+edge
+[
+source 29
+target 80
+label "weight 1"]
+edge
+[
+source 29
+target 88
+label "weight 1"]
+edge
+[
+source 30
+target 33
+label "weight 1"]
+edge
+[
+source 30
+target 35
+label "weight 1"]
+edge
+[
+source 30
+target 40
+label "weight 1"]
+edge
+[
+source 30
+target 51
+label "weight 1"]
+edge
+[
+source 30
+target 52
+label "weight 1"]
+edge
+[
+source 30
+target 80
+label "weight 1"]
+edge
+[
+source 30
+target 88
+label "weight 1"]
+edge
+[
+source 33
+target 40
+label "weight 1"]
+edge
+[
+source 33
+target 47
+label "weight 1"]
+edge
+[
+source 33
+target 49
+label "weight 1"]
+edge
+[
+source 33
+target 51
+label "weight 1"]
+edge
+[
+source 33
+target 80
+label "weight 1"]
+edge
+[
+source 33
+target 88
+label "weight 1"]
+edge
+[
+source 34
+target 36
+label "weight 1"]
+edge
+[
+source 34
+target 64
+label "weight 1"]
+edge
+[
+source 34
+target 71
+label "weight 1"]
+edge
+[
+source 34
+target 75
+label "weight 1"]
+edge
+[
+source 34
+target 82
+label "weight 1"]
+edge
+[
+source 35
+target 52
+label "weight 1"]
+edge
+[
+source 36
+target 60
+label "weight 1"]
+edge
+[
+source 38
+target 54
+label "weight 1"]
+edge
+[
+source 38
+target 65
+label "weight 1"]
+edge
+[
+source 38
+target 76
+label "weight 1"]
+edge
+[
+source 38
+target 81
+label "weight 1"]
+edge
+[
+source 38
+target 91
+label "weight 1"]
+edge
+[
+source 39
+target 42
+label "weight 1"]
+edge
+[
+source 39
+target 43
+label "weight 1"]
+edge
+[
+source 39
+target 56
+label "weight 1"]
+edge
+[
+source 39
+target 63
+label "weight 1"]
+edge
+[
+source 39
+target 68
+label "weight 1"]
+edge
+[
+source 39
+target 69
+label "weight 1"]
+edge
+[
+source 40
+target 47
+label "weight 1"]
+edge
+[
+source 40
+target 51
+label "weight 1"]
+edge
+[
+source 40
+target 80
+label "weight 1"]
+edge
+[
+source 40
+target 88
+label "weight 1"]
+edge
+[
+source 40
+target 89
+label "weight 1"]
+edge
+[
+source 41
+target 79
+label "weight 1"]
+edge
+[
+source 42
+target 43
+label "weight 1"]
+edge
+[
+source 42
+target 50
+label "weight 1"]
+edge
+[
+source 42
+target 56
+label "weight 1"]
+edge
+[
+source 42
+target 63
+label "weight 1"]
+edge
+[
+source 42
+target 68
+label "weight 1"]
+edge
+[
+source 42
+target 69
+label "weight 1"]
+edge
+[
+source 42
+target 71
+label "weight 1"]
+edge
+[
+source 42
+target 89
+label "weight 1"]
+edge
+[
+source 43
+target 50
+label "weight 1"]
+edge
+[
+source 43
+target 56
+label "weight 1"]
+edge
+[
+source 43
+target 63
+label "weight 1"]
+edge
+[
+source 43
+target 68
+label "weight 1"]
+edge
+[
+source 43
+target 69
+label "weight 1"]
+edge
+[
+source 43
+target 89
+label "weight 1"]
+edge
+[
+source 44
+target 66
+label "weight 1"]
+edge
+[
+source 45
+target 89
+label "weight 1"]
+edge
+[
+source 47
+target 49
+label "weight 1"]
+edge
+[
+source 47
+target 80
+label "weight 1"]
+edge
+[
+source 47
+target 88
+label "weight 1"]
+edge
+[
+source 48
+target 54
+label "weight 1"]
+edge
+[
+source 48
+target 57
+label "weight 1"]
+edge
+[
+source 48
+target 59
+label "weight 1"]
+edge
+[
+source 50
+target 56
+label "weight 1"]
+edge
+[
+source 50
+target 63
+label "weight 1"]
+edge
+[
+source 50
+target 68
+label "weight 1"]
+edge
+[
+source 50
+target 71
+label "weight 1"]
+edge
+[
+source 50
+target 89
+label "weight 1"]
+edge
+[
+source 51
+target 80
+label "weight 1"]
+edge
+[
+source 51
+target 82
+label "weight 1"]
+edge
+[
+source 51
+target 88
+label "weight 1"]
+edge
+[
+source 52
+target 88
+label "weight 1"]
+edge
+[
+source 54
+target 57
+label "weight 1"]
+edge
+[
+source 54
+target 59
+label "weight 1"]
+edge
+[
+source 54
+target 76
+label "weight 1"]
+edge
+[
+source 54
+target 81
+label "weight 1"]
+edge
+[
+source 54
+target 90
+label "weight 1"]
+edge
+[
+source 55
+target 75
+label "weight 1"]
+edge
+[
+source 55
+target 82
+label "weight 1"]
+edge
+[
+source 56
+target 63
+label "weight 1"]
+edge
+[
+source 56
+target 69
+label "weight 1"]
+edge
+[
+source 57
+target 59
+label "weight 1"]
+edge
+[
+source 57
+target 76
+label "weight 1"]
+edge
+[
+source 57
+target 79
+label "weight 1"]
+edge
+[
+source 57
+target 85
+label "weight 1"]
+edge
+[
+source 57
+target 90
+label "weight 1"]
+edge
+[
+source 57
+target 91
+label "weight 1"]
+edge
+[
+source 58
+target 60
+label "weight 1"]
+edge
+[
+source 58
+target 61
+label "weight 1"]
+edge
+[
+source 58
+target 62
+label "weight 1"]
+edge
+[
+source 58
+target 64
+label "weight 1"]
+edge
+[
+source 58
+target 68
+label "weight 1"]
+edge
+[
+source 58
+target 71
+label "weight 1"]
+edge
+[
+source 58
+target 75
+label "weight 1"]
+edge
+[
+source 58
+target 78
+label "weight 1"]
+edge
+[
+source 59
+target 76
+label "weight 1"]
+edge
+[
+source 59
+target 79
+label "weight 1"]
+edge
+[
+source 59
+target 90
+label "weight 1"]
+edge
+[
+source 59
+target 91
+label "weight 1"]
+edge
+[
+source 60
+target 62
+label "weight 1"]
+edge
+[
+source 60
+target 68
+label "weight 1"]
+edge
+[
+source 60
+target 72
+label "weight 1"]
+edge
+[
+source 60
+target 75
+label "weight 1"]
+edge
+[
+source 60
+target 78
+label "weight 1"]
+edge
+[
+source 61
+target 62
+label "weight 1"]
+edge
+[
+source 61
+target 68
+label "weight 1"]
+edge
+[
+source 61
+target 75
+label "weight 1"]
+edge
+[
+source 61
+target 78
+label "weight 1"]
+edge
+[
+source 62
+target 64
+label "weight 1"]
+edge
+[
+source 62
+target 68
+label "weight 1"]
+edge
+[
+source 62
+target 75
+label "weight 1"]
+edge
+[
+source 62
+target 78
+label "weight 1"]
+edge
+[
+source 62
+target 82
+label "weight 1"]
+edge
+[
+source 63
+target 69
+label "weight 1"]
+edge
+[
+source 64
+target 75
+label "weight 1"]
+edge
+[
+source 65
+target 76
+label "weight 1"]
+edge
+[
+source 65
+target 79
+label "weight 1"]
+edge
+[
+source 65
+target 81
+label "weight 1"]
+edge
+[
+source 65
+target 90
+label "weight 1"]
+edge
+[
+source 68
+target 78
+label "weight 1"]
+edge
+[
+source 72
+target 75
+label "weight 1"]
+edge
+[
+source 75
+target 82
+label "weight 1"]
+edge
+[
+source 76
+target 79
+label "weight 1"]
+edge
+[
+source 76
+target 81
+label "weight 1"]
+edge
+[
+source 76
+target 90
+label "weight 1"]
+edge
+[
+source 79
+target 81
+label "weight 1"]
+edge
+[
+source 79
+target 85
+label "weight 1"]
+edge
+[
+source 79
+target 91
+label "weight 1"]
+edge
+[
+source 80
+target 88
+label "weight 1"]
+edge
+[
+source 85
+target 86
+label "weight 1"]
+]
